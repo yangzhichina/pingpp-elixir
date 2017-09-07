@@ -1,0 +1,9 @@
+Ping++ Elixir SDK
+
+TODO:
+  . review all code 'pingpp-ruby'.
+  . impl basic functions, and try to release '0.0.1'.
+
+Sep.7.2017
+  . init project via CLI command 'mix new pingpp-elixir --app pingpp_elixir'.
+
